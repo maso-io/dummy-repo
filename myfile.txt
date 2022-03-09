@@ -1,0 +1,5 @@
+# My file with a few important details about vim
+1. use i to get into insert mode, then ESC to switch out to command mode.
+2. :w - is a save command
+3. :q - is a quit command
+4. :wq - is a save and then quit command.
